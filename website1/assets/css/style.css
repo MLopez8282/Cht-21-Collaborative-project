@@ -1,3 +1,14 @@
 body{
     background: #BDBDBD;
 }
+.jumbotron{
+    height: 400px;
+}
+.rounded-circle{
+margin-top: -170px;
+margin-right: -240px;
+ 
+}
+.main-text{
+    margin-left:-200px;
+}
